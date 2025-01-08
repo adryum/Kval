@@ -21,9 +21,4 @@ Database usage options
 - Store leaderboard (highscores)
 - Create account
 - Selected videos for played session
-- 
-
-
-
-
-- 
+- Save videos for guesser
