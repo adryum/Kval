@@ -22,3 +22,4 @@ Database usage options
 - Create account
 - Selected videos for played session
 - Save videos for guesser
+- Loby player data
