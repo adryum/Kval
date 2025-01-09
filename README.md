@@ -21,5 +21,5 @@ Database usage options
 - Store leaderboard (highscores)
 - Create account
 - Selected videos for played session
-- Save videos for guesser
+- Custom made video lists
 - Loby player data
